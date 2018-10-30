@@ -1,0 +1,180 @@
+
+html{
+    background-color: #0e0614;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.Principal{
+    margin: 20px auto auto auto;
+    display: flex;
+    padding: auto;
+    border: 100px;
+    align-items: center;
+    width: auto;
+    height: 600px;
+}
+
+.button:link,
+.button:visited{
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    border: 2px ;
+    margin: 20px auto;
+    align-items: center;
+}
+
+.button:hover,
+.button:visited:hover{
+    display: flex;
+    color: #fff;
+    background-color: coral;
+    opacity: 10%;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.button:active,
+.button:visited:active{
+    display: flex;
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.Menu {
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+    height: 50px;
+    display: flex;
+    background-image: url("Images/imagen2.png");
+}
+
+.Contactanos{
+    color: white;
+    display: flex;
+    width: auto;
+    height: 70px;
+    justify-content: center;
+}
+.Cont2{
+
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+    height: 300px;
+}
+
+.Texto1{
+    float: right;
+    border-radius: 10px ;
+    background-color: white;
+    opacity: 0.5;
+    font-family: "Noto Kufi Arabic", serif;
+    color: black;
+    height: 150px;
+    width: auto;
+    justify-content: left;
+}
+
+.cuerpo{
+    padding: auto;
+    align-items: center;
+    justify-content: left;
+    height: 500px;
+    width: auto;
+    margin: 20px auto;
+    background-color: #a03c10;
+    border-radius: 10px;
+}
+
+.cuerpo2{
+    padding: auto;
+    align-items: center;
+    justify-content: left;
+    height: 500px;
+    width: auto;
+    margin: 20px auto;
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+
+
+.cuerpo3{
+    padding: auto;
+    align-items: center;
+    justify-content: left;
+    height: 500px;
+    width: auto;
+    margin: 20px auto;
+    /*  background-color: darkcyan;*/
+    border-radius: 10px;
+}
+
+.Imagen{
+    float: left;
+    height: 150px;
+    width: auto;
+
+}
+
+.Imagen2{
+    height: 150px;
+    width: auto;
+    float: left;
+}
+
+.Texto2{
+    border-radius: 10px ;
+    background-color: white;
+    opacity: 0.5;
+    font-family: "Noto Kufi Arabic", serif;
+    float: left;
+    color: black;
+    height: 350px;
+    width: auto;
+    justify-content: left;
+}
+
+.Asociacion{
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+
+}
+
+.lenguajes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+}
+
+img{
+    width: 5%;
+}
+
+/*<div > <h2 style="color: white" align="center">Desarrollamos:     </h2>  <</div>*/
+
+
